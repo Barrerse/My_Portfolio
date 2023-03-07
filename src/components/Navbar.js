@@ -3,6 +3,8 @@ import "./Navbar.css"
 import React from 'react'
 import { Link } from "react-router-dom"
 
+import { FaBars } from "react-icons/fa"
+
 const Navbar = () => {
   return (
     <div classname="header">
@@ -23,6 +25,9 @@ const Navbar = () => {
                 <Link to="/project">Project</Link>
             </li>
         </ul>
+        <div className="ham-burger">
+            <FaBars  size={20} style={{ color: "#fff"}} />
+        </div>
     </div>
   )
 }
