@@ -14,8 +14,8 @@ function Hero() {
                 <img className="intro-img" src={IntroImg} alt="hero image" />
             </div>
             <div className="content">
-                <p> Hello and Welcome!</p>
-                <h1>SEBASTIAN BARRERA PORTFOLIO</h1>
+                <p> Hello and welcome!</p>
+                <h1>FULLSTACK DEVELOPER</h1>
                 <div>
                     <Link to="/Project" className="btn">
                     Projects

@@ -24,10 +24,35 @@
    padding: 0 1rem
 }
 
+/* Animation for links in navbar */
+
 .nav-menu li a {
     font-size: 1.2rem;
     font-weight: 500;
-}
+    position: relative;
+  }
+  
+  .nav-menu li a::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 50%;
+    background-color: #fca311;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  }
+  
+  .nav-menu li a:hover {
+    font-size: 1.3rem;
+  }
+  
+  .nav-menu li a:hover::after {
+    width: 100%;
+    left: 0;
+  }
+  
 
 /* hides the hamburger menu on the right side of the header when its not mobile  */
 .ham-burger {
