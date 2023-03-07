@@ -6,12 +6,12 @@ This is a single-page React application that serves as my developer portfolio. I
 Table of Contents
 -----------------
 
--   [Installation](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#installation)
--   [Usage](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#usage)
--   [Features](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#features)
--   [Technologies](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#technologies)
--   [Contributing](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#contributing)
--   [License](https://chat.openai.com/chat/75dfe0ce-8b48-4e86-a690-082e0c46bcb5#license)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Features](#features)
+-   [Technologies](#technologies)
+-   [Contributing](#contributing)
+-   [License](#license)
 
 Installation
 ------------
