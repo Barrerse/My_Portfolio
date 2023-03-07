@@ -22,7 +22,7 @@ ul{
   list-style-type: none;
 }
 
-.btn{
+.btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
@@ -31,15 +31,31 @@ ul{
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 .btn-light {
-  background: transparent;
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #222;
   color: #fff;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 .btn:hover {
   background: #fff;
   color: #e5e5e5;
-  transition: 0.3s;
+  transform: translateY(-3px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.btn-light:hover {
+  background: #fca311;
+  color: #222;
+  transform: translateY(-3px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
