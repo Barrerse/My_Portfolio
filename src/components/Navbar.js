@@ -7,7 +7,7 @@ import { FaBars } from "react-icons/fa"
 
 const Navbar = () => {
   return (
-    <div classname="header">
+    <div className="header">
         <Link to="/">
             <h1>Portfolio</h1>
         </Link>
