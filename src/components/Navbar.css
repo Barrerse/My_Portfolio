@@ -18,6 +18,11 @@
     font-weight: 500;
 }
 
+/* hides the hamburger menu on the right side of the header when its not mobile  */
+.ham-burger {
+    display: none;
+}
+
 @media screen and (max-width: 1040px) {
     .nav-menu {
         flex-direction: column ;
@@ -36,6 +41,9 @@
     }
     .nav-menu li a {
         font-size: 2rem;
+    }
+    .ham-burger {
+        display: initial;
     }
 }
 
