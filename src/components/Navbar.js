@@ -1,7 +1,7 @@
 import "./Navbar.css"
 
 // might only need import React from "react" without useState
-import React, { useState } from "react"
+import React from "react"
 
 import { Link } from "react-router-dom"
 
