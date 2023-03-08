@@ -37,9 +37,28 @@
     padding: 1rem;
 }
 
-.social{
+.socials{
     margin-top: 1rem;
 }
+
+/* make socials hover */
+
+.socials {
+  display: flex;
+  align-items: center;
+}
+
+.socials > * {
+  margin-right: 1rem;
+  font-size: 1.5rem;
+  color: #fff;
+  transition: transform 0.3s ease-in-out;
+}
+
+.socials > *:hover {
+  transform: scale(1.2);
+}
+
 
 h4{
     font-size: 1.2rem;
