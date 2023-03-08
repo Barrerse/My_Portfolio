@@ -29,9 +29,9 @@ Usage
 
 This application is a single-page React portfolio that showcases my skills, projects, and contact information. When you first load the application, you'll see a header, a section for content, and a footer. The header includes my name and a navigation bar with links to different sections of the portfolio. The content section includes four sections: About Me, Portfolio, Contact, and Resume.
 
-To navigate the portfolio, simply click on one of the links in the navigation bar. The corresponding section will be displayed below the navigation bar without the page reloading. The current section will be highlighted in the navigation bar.
+To navigate the portfolio, simply click on one of the links in the navigation bar.
 
-In the About Me section, you'll see a recent photo or avatar of me and a short bio. In the Portfolio section, you'll see titled images of six of my projects with links to both the deployed applications and the corresponding GitHub repository. In the Contact section, you'll see a contact form with fields for a name, an email address, and a message. If you move your cursor out of one of the form fields without entering text, you'll receive a notification that this field is required. If you enter text into the email address field, you'll receive a notification if you've entered an invalid email address. In the Resume section, you'll see a link to my downloadable resume and a list of my proficiencies.
+In the About Me section, you'll see a recent photo of me and a short bio. In the Portfolio section, you'll see titled images of six of my projects with links to both the deployed applications and the corresponding GitHub repository. In the Contact section, you'll see a contact form with fields for a name, an email address, and a message. If you move your cursor out of one of the form fields without entering text, you'll receive a notification that this field is required. If you enter text into the email address field, you'll receive a notification if you've entered an invalid email address. In the Resume section, you'll see a link to my downloadable resume and a list of my proficiencies.
 
 Features
 --------
