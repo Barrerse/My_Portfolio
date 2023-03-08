@@ -1,3 +1,4 @@
+/* Desktop */
 .about {
   display: flex;
   justify-content: space-between;
@@ -7,11 +8,10 @@
   padding: 5rem 0;
 }
 
-
 .left {
-    width: 50%;
-    padding: 0 2rem;
-    color: #333;
+  width: 50%;
+  padding: 0 2rem;
+  color: #333;
 }
 
 .right {
@@ -104,3 +104,85 @@
   .img-stack-bottom:hover .img-overlay2 {
     opacity: 1;
   }
+  
+/* Mobile */
+@media only screen and (max-width: 767px) {
+  .about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #855988, #6B4984, #483475, #2B2F77, #141852, #070B34);
+    color: #333;
+    padding: 3rem 0;
+  }
+
+  .left {
+    width: 100%;
+    padding: 0 1rem;
+    color: #333;
+  }
+
+  .right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .about-heading {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .aboutme {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .aboutme2 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-width: 300px;
+  }
+
+  .img-stack,
+  .img-stack-bottom {
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+    margin: 2rem;
+    border-radius: 5%;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .img-overlay,
+  .img-overlay2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  .img-overlay p,
+  .img-overlay2 p {
+    color: #fff;
+    font-size: 1.2rem;
+  }
+
+  .img-stack:hover > .img-overlay,
+  .img-stack-bottom:hover > .img-overlay2 {
+    opacity: 1;
+  }
+}
