@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ce4a1f7.css",
-    "main.js": "/static/js/main.e3b20658.js",
-    "static/media/moab.png": "/static/media/moab.9f62f780c57f31b43b6f.png",
-    "static/media/img1.jpg": "/static/media/img1.8b23670f2df2684e8742.jpg",
-    "static/media/Project-Gamelist.PNG": "/static/media/Project-Gamelist.7053a52ead53ed2c9124.PNG",
-    "static/media/JATE_PWA.png": "/static/media/JATE_PWA.68ee312eda48c7c3caa3.png",
-    "static/media/MovieTimeMachine.png": "/static/media/MovieTimeMachine.cbbcbb7f30059e607631.png",
-    "static/media/aboutme.jpg": "/static/media/aboutme.e70310abc7bb31d1adb4.jpg",
-    "static/media/Sebastian Barrera_Resume_.pdf": "/static/media/Sebastian Barrera_Resume_.5ca4541c9e3abffb1f5d.pdf",
-    "static/media/SQL_backend.png": "/static/media/SQL_backend.6f38a986354e8aabdab2.png",
-    "static/media/Coding Quiz.png": "/static/media/Coding Quiz.e1fb100054d06c0bb881.png",
-    "static/media/Employee Tracker.png": "/static/media/Employee Tracker.8a281d43d1e270159975.png",
-    "index.html": "/index.html",
-    "main.8ce4a1f7.css.map": "/static/css/main.8ce4a1f7.css.map",
-    "main.e3b20658.js.map": "/static/js/main.e3b20658.js.map"
+    "main.css": "/My_Portfolio/static/css/main.8ce4a1f7.css",
+    "main.js": "/My_Portfolio/static/js/main.597cf9af.js",
+    "static/media/moab.png": "/My_Portfolio/static/media/moab.9f62f780c57f31b43b6f.png",
+    "static/media/img1.jpg": "/My_Portfolio/static/media/img1.8b23670f2df2684e8742.jpg",
+    "static/media/Project-Gamelist.PNG": "/My_Portfolio/static/media/Project-Gamelist.7053a52ead53ed2c9124.PNG",
+    "static/media/JATE_PWA.png": "/My_Portfolio/static/media/JATE_PWA.68ee312eda48c7c3caa3.png",
+    "static/media/MovieTimeMachine.png": "/My_Portfolio/static/media/MovieTimeMachine.cbbcbb7f30059e607631.png",
+    "static/media/aboutme.jpg": "/My_Portfolio/static/media/aboutme.e70310abc7bb31d1adb4.jpg",
+    "static/media/Sebastian Barrera_Resume_.pdf": "/My_Portfolio/static/media/Sebastian Barrera_Resume_.5ca4541c9e3abffb1f5d.pdf",
+    "static/media/SQL_backend.png": "/My_Portfolio/static/media/SQL_backend.6f38a986354e8aabdab2.png",
+    "static/media/Coding Quiz.png": "/My_Portfolio/static/media/Coding Quiz.e1fb100054d06c0bb881.png",
+    "static/media/Employee Tracker.png": "/My_Portfolio/static/media/Employee Tracker.8a281d43d1e270159975.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.8ce4a1f7.css.map": "/My_Portfolio/static/css/main.8ce4a1f7.css.map",
+    "main.597cf9af.js.map": "/My_Portfolio/static/js/main.597cf9af.js.map"
   },
   "entrypoints": [
     "static/css/main.8ce4a1f7.css",
-    "static/js/main.e3b20658.js"
+    "static/js/main.597cf9af.js"
   ]
 }
