@@ -39,7 +39,7 @@ Features
 -   Single-page React portfolio that showcases my skills, projects, and contact information.
 -   Navigation bar with links to different sections of the portfolio.
 -   Highlighted current section in the navigation bar.
--   About Me section with a recent photo or avatar and a short bio.
+-   About Me section with a recent photo and a short bio.
 -   Portfolio section with titled images of six of my projects and links to both the deployed applications and the corresponding GitHub repository.
 -   Contact form with fields for a name, an email address, and a message.
 -   Error messages when form fields are invalid or required.
