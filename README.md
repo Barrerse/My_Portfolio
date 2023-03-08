@@ -12,7 +12,7 @@ Mobile Example
 ![mobile view](https://user-images.githubusercontent.com/108836644/223671881-b6a244c7-b4b5-4535-af10-dceb5c8686a3.PNG)
 
 
-Check out a video [here] (https://watch.screencastify.com/v/ZX8k6pMzTDvI5SQwtelV)
+Check out a video [here](https://watch.screencastify.com/v/ZX8k6pMzTDvI5SQwtelV)
 
 Check out the [website](https://barrerse.github.io/My_Portfolio/)!
 
