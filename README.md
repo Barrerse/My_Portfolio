@@ -1,7 +1,19 @@
 My Portfolio
 ============
 
-This is a single-page React application that serves as my developer portfolio. It showcases my skills, projects, and contact information in a visually appealing and responsive way.
+This is a single-page React application that serves as my developer portfolio. It showcases my skills, projects, and contact information in a visually appealing and 
+responsive way.
+
+Home Page
+![Home Page](https://user-images.githubusercontent.com/108836644/223671683-b2e4eec3-df62-4f24-b7f7-2a61860ce994.png)
+
+Mobile Example 
+
+![mobile view](https://user-images.githubusercontent.com/108836644/223671881-b6a244c7-b4b5-4535-af10-dceb5c8686a3.PNG)
+
+
+Check out a video here: https://watch.screencastify.com/v/ZX8k6pMzTDvI5SQwtelV
+
 
 Table of Contents
 -----------------
