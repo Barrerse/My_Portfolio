@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.8ce4a1f7.css",
-    "main.js": "/My_Portfolio/static/js/main.597cf9af.js",
+    "main.css": "/My_Portfolio/static/css/main.cda12163.css",
+    "main.js": "/My_Portfolio/static/js/main.1a949b38.js",
     "static/media/moab.png": "/My_Portfolio/static/media/moab.9f62f780c57f31b43b6f.png",
     "static/media/img1.jpg": "/My_Portfolio/static/media/img1.8b23670f2df2684e8742.jpg",
     "static/media/Project-Gamelist.PNG": "/My_Portfolio/static/media/Project-Gamelist.7053a52ead53ed2c9124.PNG",
@@ -13,11 +13,11 @@
     "static/media/Coding Quiz.png": "/My_Portfolio/static/media/Coding Quiz.e1fb100054d06c0bb881.png",
     "static/media/Employee Tracker.png": "/My_Portfolio/static/media/Employee Tracker.8a281d43d1e270159975.png",
     "index.html": "/My_Portfolio/index.html",
-    "main.8ce4a1f7.css.map": "/My_Portfolio/static/css/main.8ce4a1f7.css.map",
-    "main.597cf9af.js.map": "/My_Portfolio/static/js/main.597cf9af.js.map"
+    "main.cda12163.css.map": "/My_Portfolio/static/css/main.cda12163.css.map",
+    "main.1a949b38.js.map": "/My_Portfolio/static/js/main.1a949b38.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ce4a1f7.css",
-    "static/js/main.597cf9af.js"
+    "static/css/main.cda12163.css",
+    "static/js/main.1a949b38.js"
   ]
 }
