@@ -11,10 +11,10 @@ function Hero() {
     return (
         <div className="hero">
             <div className="mask">
-                <img className="intro-img" src={IntroImg} alt="hero image" />
+                <img className="intro-img" src={IntroImg} alt="Cappadoccia field" />
             </div>
             <div className="content">
-                <p> Hello and welcome!</p>
+                <p> Welcome to my portfolio</p>
                 <h1>FULLSTACK DEVELOPER</h1>
                 <div>
                     <Link to="/Project" className="btn">
