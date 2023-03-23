@@ -16,7 +16,7 @@ Check out a video [here](https://watch.screencastify.com/v/ZX8k6pMzTDvI5SQwtelV)
 
 Check out the [website](https://barrerse.github.io/My_Portfolio/) 
 
-Check out the [website on Heroku](https://serene-basin-24934.herokuapp.com/)
+Check out the [website on Heroku](https://barrera-portfolio.herokuapp.com/)
 
 Table of Contents
 -----------------
