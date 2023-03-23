@@ -1,4 +1,4 @@
-import pro1 from "../assets/Coding Quiz.png"
+import pro1 from "../assets/Tabl.png"
 import pro2 from "../assets/Employee Tracker.png"
 import pro3 from "../assets/SQL_backend.png"
 import pro4 from "../assets/JATE_PWA.png"
@@ -8,10 +8,10 @@ import pro6 from "../assets/Project-Gamelist.PNG"
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "Coding Quiz Web Application",
-        text: "This is a timed coding quiz with multiple-choice questions. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface.",
-        view: "https://barrerse.github.io/Code-Quiz/",
-        repo: "https://github.com/Barrerse/Code-Quiz"
+        title: "Tabl - Full Stack MERN Application",
+        text: "This is a full stack application made using the MERN stack. This application helps the user browse through boardgames and purchase them using Stripe. It uses MongoDB, Express.js, React.js, Node.js, and Stripe.",
+        view: "https://limitless-sea-74669.herokuapp.com/",
+        repo: "https://github.com/Barrerse/Table"
     },
     {
         imgsrc: pro2,
